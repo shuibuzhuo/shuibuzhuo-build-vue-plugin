@@ -1,0 +1,23 @@
+{
+  "name": "shuibuzhuo-build-vue-plugin",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shuibuzhuo/shuibuzhuo-build-vue-plugin.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shuibuzhuo/shuibuzhuo-build-vue-plugin/issues"
+  },
+  "homepage": "https://github.com/shuibuzhuo/shuibuzhuo-build-vue-plugin#readme",
+  "dependencies": {
+    "vue-loader": "^16.0.0"
+  }
+}
